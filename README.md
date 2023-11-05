@@ -1,5 +1,5 @@
 - 👋 Hey there, I'm Michael Maldonado, a Software Engineer and tech enthusiast
-- 👀 I’m interested in Fullstack Software Engineering
+- 👀 I’m currently a Software Engineer @ The Hartford Insurance
 - 🌱 I’m currently learning React
 - 📫 [Connect with me!](https://www.linkedin.com/in/michael-maldo/)
 
